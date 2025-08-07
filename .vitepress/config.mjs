@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "天天的网站",
-  description: "天天制作网站",
+    description: "天天制作网站",
+    base: '/docs-demo/',
     themeConfig: {
       logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
