@@ -2,15 +2,15 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "天天的网站",
-    description: "天天制作网站",
+  title: "Cult电影记录",
+    description: "天天制作",
     base: '/docs-demo/',
     themeConfig: {
       logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
-      { text: '示例', link: '/markdown-examples' }
+      { text: '列表', link: '/markdown-examples' }
     ],
 
     sidebar: [

@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "天天的第一个网站"
-  text: "一个文档站点"
-  tagline: 持续学习，持续进步
+  name: "一个奇怪的"
+  text: "Cult个人记录"
+  tagline: 内容不适，谨慎观看
   image: 
     src: /logo.gif
     alt: 背景图
